@@ -1,0 +1,17 @@
+INSTRUCTIONS (for organisers only):
+
+
+the basic code for playing a sound with buzzers is
+tone(buzzer, frequency, duration);
+
+so for example:
+tone(buzzer, 1000, 500);
+in this case, buzzer is equal to whatever digital pin it is connected to
+
+
+song 1 is shape of you
+song 2 is never gonna give you up
+song 3 is the smurf cat song
+
+
+if you don't see any of the songs, it's because i'm still uploading them
